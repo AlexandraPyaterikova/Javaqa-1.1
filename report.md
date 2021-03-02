@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AlexandraPyaterikova/Javaqa-1.1/issues/1
-* https://github.com/AlexandraPyaterikova/Javaqa-1.1/issues/2
-* https://github.com/AlexandraPyaterikova/Javaqa-1.1/issues/3
+* [Issue_1](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/1)
+* [Issue_2](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/3)
+
 
 ## Описание процесса тестирования
 

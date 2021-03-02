@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* [Issue_1](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/1)
-* [Issue_2](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/3)
+* [Ключи из списка валидных являются невалидными](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/1)
+* [Ключ из списка невалидных является валидным](https://github.com/AlexandraPyaterikova/Javaqa-1.1_1/issues/3)
 
 
 ## Описание процесса тестирования
